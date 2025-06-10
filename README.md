@@ -105,7 +105,3 @@ The full development and results are detailed in [`borrador-9.pdf`](borrador-9.p
 This project was developed by [Your Name] as part of the machine learning course at [Your University or Course].
 
 ---
-
-## 📜 License
-
-[MIT License](LICENSE) – Free to use with attribution.

@@ -103,5 +103,3 @@ The full development and results are detailed in [`borrador-9.pdf`](borrador-9.p
 ## 📚 Credits
 
 This project was developed by [Your Name] as part of the machine learning course at [Your University or Course].
-
----

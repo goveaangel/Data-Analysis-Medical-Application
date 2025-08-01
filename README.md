@@ -97,4 +97,4 @@ Accuracy achieved: **up to 98%** with XGBoost and Extra Trees.
 
 ## 📄 Final Report
 
-The full development and results are detailed in [`borrador-9.pdf`](Data_Analysis_for_Medical_Applications.pdf).
+The full development and results are detailed in [`Report`](Data_Analysis_for_Medical_Applications.pdf).

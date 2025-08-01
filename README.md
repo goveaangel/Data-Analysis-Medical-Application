@@ -29,7 +29,8 @@ This repository contains the full development of a classification system for phy
 │   ├── communication_test.py
 │   └── online_prototype.py
 │
-├── 📄 borrador-9.pdf
+├── 📄 Data_Analysis_for_Medical_Application.pdf
+├── 📄 Analisis_de_Datos_para_Aplicaciones_Medicas.pdf
 └── README.md
 ```
 
@@ -96,10 +97,4 @@ Accuracy achieved: **up to 98%** with XGBoost and Extra Trees.
 
 ## 📄 Final Report
 
-The full development and results are detailed in [`borrador-9.pdf`](borrador-9.pdf).
-
----
-
-## 📚 Credits
-
-This project was developed by [Your Name] as part of the machine learning course at [Your University or Course].
+The full development and results are detailed in [`borrador-9.pdf`](Data_Analysis_for_Medical_Applications.pdf).
